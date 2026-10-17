@@ -1,0 +1,1 @@
+# Patent-Application-Strategies-for-CEOs-and-Researchers
