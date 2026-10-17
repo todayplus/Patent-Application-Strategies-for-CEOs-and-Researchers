@@ -1,0 +1,15 @@
+{
+  "name": "특허출원 전략 가이드 — CEO·연구자를 위한",
+  "short_name": "특허전략 가이드",
+  "description": "지식재산처 발간 『CEO·연구자를 위한 특허출원 전략』 웹 가이드 — 검색·즐겨찾기·QR 공유 지원, 오프라인 열람 가능",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F3F8FD",
+  "theme_color": "#16243D",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
